@@ -1,0 +1,65 @@
+c:\users\g4pc01\documents\visual studio 2012\Projects\Simon Dice\Simon Dice\bin\Debug\Simon Dice.exe.config
+c:\users\g4pc01\documents\visual studio 2012\Projects\Simon Dice\Simon Dice\bin\Debug\Simon Dice.exe
+c:\users\g4pc01\documents\visual studio 2012\Projects\Simon Dice\Simon Dice\bin\Debug\Simon Dice.pdb
+c:\users\g4pc01\documents\visual studio 2012\Projects\Simon Dice\Simon Dice\obj\Debug\Simon Dice.csprojResolveAssemblyReference.cache
+c:\users\g4pc01\documents\visual studio 2012\Projects\Simon Dice\Simon Dice\obj\Debug\Simon_Dice.Form1.resources
+c:\users\g4pc01\documents\visual studio 2012\Projects\Simon Dice\Simon Dice\obj\Debug\Simon_Dice.Properties.Resources.resources
+c:\users\g4pc01\documents\visual studio 2012\Projects\Simon Dice\Simon Dice\obj\Debug\Simon Dice.csproj.GenerateResource.Cache
+c:\users\g4pc01\documents\visual studio 2012\Projects\Simon Dice\Simon Dice\obj\Debug\Simon Dice.exe
+c:\users\g4pc01\documents\visual studio 2012\Projects\Simon Dice\Simon Dice\obj\Debug\Simon Dice.pdb
+c:\users\g4pc01\documents\visual studio 2012\Projects\Simon Dice\Simon Dice\obj\Debug\Simon_Dice.Form2.resources
+F:\Simon Dice\Simon Dice\bin\Debug\Simon Dice.exe.config
+F:\Simon Dice\Simon Dice\obj\Debug\Simon Dice.exe
+F:\Simon Dice\Simon Dice\obj\Debug\Simon Dice.pdb
+F:\Simon Dice\Simon Dice\bin\Debug\Simon Dice.exe
+F:\Simon Dice\Simon Dice\bin\Debug\Simon Dice.pdb
+F:\Simon Dice\Simon Dice\obj\Debug\Simon Dice.csprojResolveAssemblyReference.cache
+F:\Simon Dice\Simon Dice\obj\Debug\Simon_Dice.Form1.resources
+F:\Simon Dice\Simon Dice\obj\Debug\Simon_Dice.Form2.resources
+F:\Simon Dice\Simon Dice\obj\Debug\Simon_Dice.Properties.Resources.resources
+F:\Simon Dice\Simon Dice\obj\Debug\Simon Dice.csproj.GenerateResource.Cache
+G:\Simon Dice\Simon Dice\bin\Debug\Simon Dice.exe.config
+G:\Simon Dice\Simon Dice\obj\Debug\Simon Dice.exe
+G:\Simon Dice\Simon Dice\obj\Debug\Simon Dice.pdb
+G:\Simon Dice\Simon Dice\bin\Debug\Simon Dice.exe
+G:\Simon Dice\Simon Dice\bin\Debug\Simon Dice.pdb
+G:\Simon Dice\Simon Dice\obj\Debug\Simon Dice.csprojResolveAssemblyReference.cache
+G:\Simon Dice\Simon Dice\obj\Debug\Simon_Dice.Form1.resources
+G:\Simon Dice\Simon Dice\obj\Debug\Simon_Dice.Form2.resources
+G:\Simon Dice\Simon Dice\obj\Debug\Simon_Dice.Properties.Resources.resources
+G:\Simon Dice\Simon Dice\obj\Debug\Simon Dice.csproj.GenerateResource.Cache
+C:\Users\Demitroi M\Desktop\Simon Dice\Simon Dice\bin\Debug\Simon Dice.exe.config
+C:\Users\Demitroi M\Desktop\Simon Dice\Simon Dice\obj\Debug\Simon Dice.exe
+C:\Users\Demitroi M\Desktop\Simon Dice\Simon Dice\obj\Debug\Simon Dice.pdb
+C:\Users\Demitroi M\Desktop\Simon Dice\Simon Dice\bin\Debug\Simon Dice.exe
+C:\Users\Demitroi M\Desktop\Simon Dice\Simon Dice\bin\Debug\Simon Dice.pdb
+C:\Users\Demitroi M\Desktop\Simon Dice\Simon Dice\obj\Debug\Simon Dice.csprojResolveAssemblyReference.cache
+C:\Users\Demitroi M\Desktop\Simon Dice\Simon Dice\obj\Debug\Simon_Dice.Form1.resources
+C:\Users\Demitroi M\Desktop\Simon Dice\Simon Dice\obj\Debug\Simon_Dice.Form2.resources
+C:\Users\Demitroi M\Desktop\Simon Dice\Simon Dice\obj\Debug\Simon_Dice.Properties.Resources.resources
+C:\Users\Demitroi M\Desktop\Simon Dice\Simon Dice\obj\Debug\Simon Dice.csproj.GenerateResource.Cache
+C:\Users\Demitroi M\Desktop\Simon Dice\Simon Dice\bin\Debug\Simon Dice.exe.manifest
+C:\Users\Demitroi M\Desktop\Simon Dice\Simon Dice\bin\Debug\Simon Dice.application
+C:\Users\Demitroi M\Desktop\Simon Dice\Simon Dice\obj\Debug\Simon Dice.exe.manifest
+C:\Users\Demitroi M\Desktop\Simon Dice\Simon Dice\obj\Debug\Simon Dice.application
+F:\Simon Dice\Simon Dice\bin\Debug\Simon Dice.exe.manifest
+F:\Simon Dice\Simon Dice\bin\Debug\Simon Dice.application
+F:\Simon Dice\Simon Dice\obj\Debug\Simon Dice.exe.manifest
+F:\Simon Dice\Simon Dice\obj\Debug\Simon Dice.application
+D:\Simon Dice\Simon Dice\bin\Debug\Simon Dice.exe.config
+D:\Simon Dice\Simon Dice\obj\Debug\Simon Dice.exe
+D:\Simon Dice\Simon Dice\obj\Debug\Simon Dice.pdb
+D:\Simon Dice\Simon Dice\bin\Debug\Simon Dice.exe.manifest
+D:\Simon Dice\Simon Dice\bin\Debug\Simon Dice.application
+D:\Simon Dice\Simon Dice\bin\Debug\Simon Dice.exe
+D:\Simon Dice\Simon Dice\bin\Debug\Simon Dice.pdb
+D:\Simon Dice\Simon Dice\obj\Debug\Simon Dice.csprojResolveAssemblyReference.cache
+D:\Simon Dice\Simon Dice\obj\Debug\Simon_Dice.Form1.resources
+D:\Simon Dice\Simon Dice\obj\Debug\Simon_Dice.Form2.resources
+D:\Simon Dice\Simon Dice\obj\Debug\Simon_Dice.Properties.Resources.resources
+D:\Simon Dice\Simon Dice\obj\Debug\Simon Dice.csproj.GenerateResource.Cache
+D:\Simon Dice\Simon Dice\obj\Debug\Simon Dice.exe.manifest
+D:\Simon Dice\Simon Dice\obj\Debug\Simon Dice.application
+C:\Users\Demitroi\Documents\Ing. Software\6to Semestre\Programación Avanzada - Mier\Simon Dice\Simon Dice\bin\Debug\Simon Dice.exe.config
+C:\Users\Demitroi\Documents\Ing. Software\6to Semestre\Programación Avanzada - Mier\Simon Dice\Simon Dice\obj\Debug\Simon Dice.exe
+C:\Users\Demitroi\Documents\Ing. Software\6to Semestre\Programación Avanzada - Mier\Simon Dice\Simon Dice\obj\Debug\Simon Dice.pdb
